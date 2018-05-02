@@ -1,0 +1,3 @@
+email : salman@admin.com
+pass  :123456
+enc   : $2y$10$iXklXbq06GTKporILiUUD.SXKtBAQDO/oTrIQ9JO6w97UcPIv7qoS
